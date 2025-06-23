@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2000.0001"
+   height="2000.0001"
+   viewBox="0 0 529.16669 529.16669"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#7b7d7f;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1"
+       width="453.51038"
+       height="453.51038"
+       x="41.900414"
+       y="39.435684"
+       ry="23.414938" />
+    <g
+       id="g9"
+       transform="translate(-20.950217,-19.102572)">
+      <path
+         d="m 252.66912,115.31519 v 95.30708 h 65.72884 v -95.30708 z"
+         style="fill:none;stroke:#7b7d7f;stroke-width:29.7608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path7" />
+      <path
+         d="m 318.39796,356.74993 h -65.72884 v 95.30669 h 65.72884 z"
+         style="fill:none;stroke:#7b7d7f;stroke-width:29.7608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path5" />
+      <path
+         d="M 206.92495,317.9365 V 252.20768 H 111.61826 V 317.9365 Z"
+         style="fill:none;stroke:#7b7d7f;stroke-width:29.7608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path8" />
+      <path
+         d="m 364.14216,252.20769 v 65.72883 h 95.30668 v -65.72883 z"
+         style="fill:none;stroke:#7b7d7f;stroke-width:29.7608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path6" />
+      <circle
+         style="fill:none;stroke:#7b7d7f;stroke-width:29.7608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path9"
+         cx="285.53354"
+         cy="285.07211"
+         r="23.218634" />
+    </g>
+  </g>
+</svg>

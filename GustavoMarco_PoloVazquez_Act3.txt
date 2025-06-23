@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="utf-8" />
+
+<title>Mpv Works</title>
+
+<link rel="stylesheet" href="GustavoMarco_PoloVazquez_Act3.css" />
+
+</head>
+
+<body>
+
+<header>
+
+<h1> Portafolio de trabajo de Mpv. </h1>
+<h2> 
+Recopilacion de trabajos artisticos sobre el aprendiz Gustavo Vazquez (Mpv).
+</h2>
+
+</header>
+<p> Gustavo MPV es un aprendiz del oficio artístico local de la ciudad de Oaxaca de Juarez, estudiante en el taller-galeria Subterráneos.
+
+<h3> Subterraneos Oaxaca: </h3>
+Taller-galeria de arte, enfocado a enseñar a jovenes con pocos recursos que forman parte de la clase trabajadora, con el objetivo de formarlos sin la necesidad de un pago hacia una institucion, el nucleo del taller está conformado por integrantes con conocimientos marxistas y sus producciones se centran en la lucha proletaria. 
+</p>
+
+<h3> Tecnicas que puedes encontrar:</h3>
+
+<ul style="list-style-type: disc">
+	<li> 
+		Reproducciones:
+		<ul>
+		<li> Grabados en xilografía (Mdf)</li>
+		<li> Grabados en algrafía</li>
+		</ul>
+	</li>
+	<li>
+		Piezas unicas:
+		<ul>
+		<li> Pinturas con acuarela.</li>
+		<li> Pinturas al óleo.</li>
+		<li> Dibujos a lápiz.</li>
+		<li> Dibujos con rotulador.</li>
+		</ul>
+	</li>
+</ul>
+
+<div class="container">
+<div class="card">
+<h4> Dibujos con rotulador. </h4>
+<img 
+	class="imagen"
+	src="dibujocuervo.jpg"
+	alt="dibujo de un cuervo con marcador permanente."
+/>
+
+<img 
+	class="imagen"
+	src="dibujocotorro.jpg"
+	alt="dibujo de un cotorro con marcador permanente."
+/>
+<a href="pagina_alterna1.html"target="_blank">
+<img 
+	class="imagen"
+	src="+.png"
+	alt="link hacia mas dibujos con rotulador"
+/>
+</a>
+</div>
+</div>
+</br>
+<div class="container">
+<div class="card">
+
+<h4> Pinturas con acuarela </h4>
+<img 
+	class="imagen"
+	src="pinturaloro.jpg"
+	alt="pintura de un loro con acuarela."
+/>
+
+<img 
+	class="imagen"
+	src="pinturaperro.jpg"
+	alt="pintura de un perro con acuarela."
+/>
+<a href="pagina_alterna2.html"target="_blank">
+<img 
+	class="imagen"
+	src="+.png"
+	alt="link hacia mas pinturas con acuarela"
+/>
+</a>
+</div>
+</div>
+<h3> Contactos: </h3>
+<adress>
+
+<p> Pedidos en toda la republica mexicana.</p>
+
+<div class="box">
+<ul>
+<li>
+Instagram: <a href="https://www.instagram.com/gustavo_mpv98/"target="_blank"> 
+<img
+	class="png1"
+	src="instagramlogo.png"
+	alt="logotipo de instagram"
+/>
+
+Gustavo_mpv98
+</a>
+</li>
+
+<li>
+Facebook: <a href="https://www.facebook.com/gustavo.polo.vazquez/?locale=es_LA"target="_blank"> 
+<img 
+	src="facebooklogo.png"
+	alt="Logotipo de facebook"
+/>
+
+Gustavo Polo Vazquez
+</a>
+</li>
+
+
+<li>Teléfono: <a href="tel:9513662807"> <img
+	src="whatsapplogo.png"
+	alt="logo de whatsapp"
+/>
+ 951-366-28-07 </a> </li>
+
+</ul>
+</div>
+</adress>
+
+<p> Derechos de autor 2025. Todos los derechos de autor reservados </p> 
+</body>
+
+</html>
